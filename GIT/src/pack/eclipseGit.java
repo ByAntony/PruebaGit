@@ -7,6 +7,7 @@ public class eclipseGit {
 		System.out.println("Hola");
 		System.out.println("Te vuelvo a saludar");
 		System.out.println("Subida conectada con GitHub");
+		System.out.println("Subida desde GitHub");
 	}
 	
 }
